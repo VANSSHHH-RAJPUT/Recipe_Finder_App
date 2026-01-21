@@ -73,6 +73,3 @@ Running `flutter test --coverage` produces coverage data under `coverage/lcov.in
 - [x] README updated with architecture + instructions
 
 ---
-
-If additional polish is required (icons, localization, or broader offline assets), add notes above before final submission.
- Update this README as milestones are completed. !*** End Patch
